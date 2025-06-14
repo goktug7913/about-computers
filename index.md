@@ -61,10 +61,10 @@ Benzer şekilde, insan beyni de bir tür fiziksel konfigürasyondur. Nöronları
 Eğer fiziksel sistemler birer program gibi çalışabiliyorsa, o hâlde insanlar da—özellikle müzikal performans sırasında—birer stokastik bilgisayar olarak görülebilir. İnsan bedenini ve zihnini yöneten fiziksel kurallar, sinir sisteminden kaslara, duyulardan dikkat sistemine kadar karmaşık bir hesaplama süreci yürütür. Ancak bu süreç, klasik bir bilgisayarın deterministik doğasından farklı olarak, içsel ve dışsal gürültüyle şekillenen stokastik (olasılıklı) bir sistemdir.
 
 Bu perspektiften bakıldığında:
-•Evrenin kendisi, tüm fiziksel sistemleri içeren evrensel bir bilgisayardır.
-•Müzikal bir beste, bu evrensel bilgisayar için yazılmış bir ana program gibidir.
-•İcracılar, bu evrensel bilgisayarın içindeki stokastik alt programlardır. Onlar, notaları ve işaretleri yorumlayarak, fiziksel ve bilişsel süreçleri aracılığıyla bu kodu çalıştırırlar.
-•Performans, evrensel bilgisayarın faz uzayında izlediği hesaplamasal olarak indirgenemez bir yoldur — bir kez gerçekleştikten sonra, **onu basitçe kopyalamanın veya dijital bir simülasyonla birebir yeniden yaratmanın ne denli zor, hatta belki de temelden imkânsız olabileceğine dair derin soruları beraberinde getirir.**
+- Evrenin kendisi, tüm fiziksel sistemleri içeren evrensel bir bilgisayardır.
+- Müzikal bir beste, bu evrensel bilgisayar için yazılmış bir ana program gibidir.
+- İcracılar, bu evrensel bilgisayarın içindeki stokastik alt programlardır. Onlar, notaları ve işaretleri yorumlayarak, fiziksel ve bilişsel süreçleri aracılığıyla bu kodu çalıştırırlar.
+- Performans, evrensel bilgisayarın faz uzayında izlediği hesaplamasal olarak indirgenemez bir yoldur — bir kez gerçekleştikten sonra, **onu basitçe kopyalamanın veya dijital bir simülasyonla birebir yeniden yaratmanın ne denli zor, hatta belki de temelden imkânsız olabileceğine dair derin soruları beraberinde getirir.**
 
 Her canlı icra, aynı besteye sadık kalsa da, aslında tekil bir hesaplama deneyimidir. Zamanlama farkları, dinamiklerdeki nüanslar, icracının ruh hâli, ortamın akustiği gibi faktörler bu sürece rastlantısallık katar. Bu rastlantısallık, sadece “hata” değil, aynı zamanda yaratıcılığın ve ifadenin kaynağıdır. İnsan, müziği sadece çalan değil, fiziksel gerçekliğin içinde onu yeniden hesaplayan bir varlıktır.
 
